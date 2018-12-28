@@ -1,2 +1,2 @@
 # Machine_Learing
-Machine learning projects
+Machine learning projects written in both Python and R
